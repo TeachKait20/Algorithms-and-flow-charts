@@ -1,6 +1,6 @@
 # Алгоритмы и блок-схемы
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l1.gif?raw=true">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l1.gif?raw=true" width="250">
 
 ## Теоретическая часть 1. Алгоритмы. Их виды и свойства.
 
@@ -30,7 +30,7 @@
 
 ## Закрепление теоретической части 1.
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l2.gif?raw=true">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l2.gif?raw=true" width="250">
 
 *Некоторые задания содержат варианты выполнения. Вы вправе выбрать вариант самостоятельно, но он не может совпадать ни с кем из группы!*
 
@@ -280,7 +280,7 @@
 
 ## Теоретическая часть 2. Блок-схемы.
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l3.gif?raw=true">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l3.gif?raw=true" width="250">
 
 Для наглядного представления алгоритмов используют блок-схемы. **Блок-схема** — это графическая модель алгоритма, где каждый этап изображается с помощью геометрических фигур (блоков), соединенных стрелками, которые показывают порядок выполнения шагов.
 
@@ -334,7 +334,7 @@
 
 Вывести на экран все числа от 1 до N.
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/uslovie.png?raw=true" width="350">
+
 
 Пояснение в виде словесного алгоритма:
 ```
@@ -351,7 +351,7 @@
 
 ## Закрепление теоретической части 2.
 
-<img src="">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/l4.gif?raw=true" width="250">
 
 *Некоторые задания содержат варианты выполнения. Вы вправе выбрать вариант самостоятельно, но он не может совпадать ни с кем из группы!*
 
