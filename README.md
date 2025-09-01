@@ -286,12 +286,12 @@
 
 | Блок  | Название | Назначение и пример использования |
 |----|----------|----------|
-| <img scr="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/start-end.png?raw=true">  | Терминатор (Пуск/Остановка)  | Обозначает начало или конец алгоритма (начало/конец). |
-| <img scr="">  | Процесс (Команда)  | Выполнение одной или нескольких операций, обработка данных (Например: a = b + c). |
-| <img scr="">  | Условие  | Обозначение ветвления алгоритма. Содержит условие, имеющее два ответа: "Да" и "Нет" (Пример: x > 10?, На улице дождь?.). |
-| <img scr="">  | Данные (Ввод-Вывод)  | Операции ввода или вывода данных.Пример: Ввести число n, Вывести результат.|
-| <img scr="">  | Цикл  | Обозначение цикла с параметром. Содержит условие продолжения цикла. (Пример: Для i от 1 до 10, Пока счетчик < 100) |
-| <img scr="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/s.png?raw=true">  | Линия потока  | Стрелки, показывающие последовательность выполнения шагов алгоритма и связь между блоками. |
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/start-end.png?raw=true">  | Терминатор (Пуск/Остановка)  | Обозначает начало или конец алгоритма (начало/конец). |
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/do.png?raw=true">  | Процесс (Команда)  | Выполнение одной или нескольких операций, обработка данных (Например: a = b + c). |
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/if.png?raw=true">  | Условие  | Обозначение ветвления алгоритма. Содержит условие, имеющее два ответа: "Да" и "Нет" (Пример: x > 10?, На улице дождь?.). |
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/enter.png?raw=true">  | Данные (Ввод-Вывод)  | Операции ввода или вывода данных.Пример: Ввести число n, Вывести результат.|
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/cycle.png?raw=true">  | Цикл  | Обозначение цикла с параметром. Содержит условие продолжения цикла. (Пример: Для i от 1 до 10, Пока счетчик < 100) |
+| <img src="https://github.com/TeachKait20/NoneCode/blob/main/Algorithms-and-flow-charts/s.png?raw=true">  | Линия потока  | Стрелки, показывающие последовательность выполнения шагов алгоритма и связь между блоками. |
 
 "ГОСТ 19.701-90 (ИСО 5807-85)"
 
